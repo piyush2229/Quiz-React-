@@ -12,7 +12,7 @@ function Nav() {
       </div>
       <div className="menu">
         <ul>
-          <li><Link  style={{ textDecoration: 'none' }}to="/">Home</Link><hr /></li>
+          <li><Link  style={{ textDecoration: 'none'}}to="/">Home</Link><hr /></li>
           <li><Link  style={{ textDecoration: 'none' }} to="/about">About</Link><hr /></li>
         </ul>
       </div>

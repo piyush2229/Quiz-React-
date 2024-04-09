@@ -18,6 +18,9 @@ ul{
     cursor: pointer;
     font-size: 20px;
 }
+ul li a{
+    text-decoration: none;
+}
 .copyright p{
     font-size: 13px;
 }

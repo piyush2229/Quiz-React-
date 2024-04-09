@@ -1,15 +1,25 @@
-.logo img{
+.logo img {
     width: 80px;
     aspect-ratio: 2/2;
     padding-left: 50px;
 }
-.about img{
+
+.about img {
     width: 50px;
     aspect-ratio: 2/2;
     padding-left: 50px;
 }
 
-.nav{
+.menu ul li {
+    color: white;
+}
+
+.menu ul li a {
+    color: white; 
+    text-decoration: none; 
+}
+
+.nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -21,12 +31,14 @@
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-weight: 400;
 }
-.menu ul{
+
+.menu ul {
     display: flex;
     list-style-type: none;
     gap: 80px;
 }
-.menu hr{
+
+.menu hr {
     width: 80%;
     border: none;
     border-radius: 10px;
