@@ -1,8 +1,7 @@
-p{
+.msg p{
     font-size: 20px;
     text-align: center;
     font-weight: 400;
     font-family: Arial, Helvetica, sans-serif;
-    padding: 100px;
     gap: 5px;
 }
